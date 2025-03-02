@@ -5,11 +5,6 @@ This README provides instructions to set up and run the Skillshare Expo App.
 ## Prerequisites
 
 - Node.js and npm installed ([Download Node.js](https://nodejs.org/))
-- Expo CLI installed globally
-
-```bash
-npm install -g expo-cli
-```
 
 ## Installation
 
