@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "561840984280",
+    "project_id": "skillshare-355e2",
+    "storage_bucket": "skillshare-355e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561840984280:android:bdf7a1319353290a3907ad",
+        "android_client_info": {
+          "package_name": "com.peoplefinder.skillshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561840984280-e8mon5lk0q767ncoh9pbgub9h3nbffi6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peoplefinder.skillshare",
+            "certificate_hash": "c3a046d198d573e09d3d88593b06b07e8f035ed8"
+          }
+        },
+        {
+          "client_id": "561840984280-na7o4t8edsolg7jvqv34dtcuvll04k83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbfoBkbpos9ownsqUL_ZSNnxousLHDZWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561840984280-na7o4t8edsolg7jvqv34dtcuvll04k83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
