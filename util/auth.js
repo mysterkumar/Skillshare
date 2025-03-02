@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_KEY = "AIzaSyAf6eMV9YBF552FYmRd1m10sZeNCNkhs3E";
+const API_KEY = "add a google api key here";
 
 async function authenticate(mode, email, password) {
   try {
